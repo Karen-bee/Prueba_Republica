@@ -1,0 +1,15 @@
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\bin\Debug\net6.0\Ejercicios.exe
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\bin\Debug\net6.0\Ejercicios.deps.json
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\bin\Debug\net6.0\Ejercicios.runtimeconfig.json
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\bin\Debug\net6.0\Ejercicios.dll
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\bin\Debug\net6.0\Ejercicios.pdb
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\obj\Debug\net6.0\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\obj\Debug\net6.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\obj\Debug\net6.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\obj\Debug\net6.0\Ejercicios.AssemblyInfo.cs
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\obj\Debug\net6.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\obj\Debug\net6.0\Ejercicios.dll
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\obj\Debug\net6.0\refint\Ejercicios.dll
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\obj\Debug\net6.0\Ejercicios.pdb
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\obj\Debug\net6.0\Ejercicios.genruntimeconfig.cache
+C:\Users\Karen2023\source\repos\NumeroHexagonal\NumeroHexagonal\obj\Debug\net6.0\ref\Ejercicios.dll
